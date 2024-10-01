@@ -1,0 +1,55 @@
+.education {
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .education h2 {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .education label {
+    font-size: 1rem;
+    margin-right: 10px;
+  }
+  
+  .education input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+  }
+  
+  .education button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .education button:hover {
+    background-color: #0056b3;
+  }
+  
+  .education p {
+    font-size: 1rem;
+    margin: 10px 0;
+  }
+  
+  .education div {
+    text-align: center;
+  }
+  
